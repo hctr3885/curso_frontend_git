@@ -1,8 +1,13 @@
 COMANDOS GIT
 ------------
 
-#inicializa un repositorio, se guardaran todos los cambios nefectuados dentro de la carpeta
+- inicializa un repositorio, se guardaran todos los cambios nefectuados dentro de la carpeta
+
 >>git init
+```
+git init
+```
+
 
 #indica estado de repositorio
 >>git status
